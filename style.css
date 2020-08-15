@@ -1,13 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
-.navbar-brand img {
+
+nav .navbar-brand img {
   width: 60px;
   height: auto;
 }
 
+footer {
+  background-color: black;
+  color: white;
+}
 
+footer .col-md-4 img {
+  filter: invert();
+  width: 57px;
+  height: auto;
+}
 
-
+.light {
+  background-color: white;
+}
 
 
 
